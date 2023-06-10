@@ -1,0 +1,129 @@
+[
+    {
+    "name": "Mixmax",
+    "budget_name": "Software subscription",
+    "owner_id": "1",
+    "spend": {
+    "value": "100",
+    "currency": "SGD"  },
+    "available_to_spend": {
+    "value": 1000,
+    "currency": "SGD"
+    },
+    "card_type": "burner",
+    "expiry": "9 feb",
+    "limit": "100",
+    "status": "active"
+    },
+    {
+    "name": "Quickbooks",
+    "budget_name": "Software subscription",
+    "owner_id": "2",
+    "spend": {
+    "value": 50,
+    "currency": "SGD"
+    },
+    "available_to_spend": {
+    "value": 250,
+    "currency": "SGD"
+    },
+    "card_type": "subscription",
+    "limit": "10",
+    "status": "active"
+    },
+    {
+    "name": "Syahar",
+    "budget_name": "Enginer subscription",
+    "owner_id": "3",
+    "spend": {
+    "value": "1020",
+    "currency": "SGD"  },
+    "available_to_spend": {
+    "value": 200,
+    "currency": "SGD"
+    },
+    "card_type": "burner",
+    "expiry": "3 feb",
+    "limit": "400",
+    "status": "active"
+    },
+    {
+    "name": "Enthlis",
+    "budget_name": "Kafta subscription",
+    "owner_id": "4",
+    "spend": {
+    "value": 50,
+    "currency": "SGD"
+    },
+    "available_to_spend": {
+    "value": 250,
+    "currency": "SGD"
+    },
+    "card_type": "subscription",
+    "limit": "80",
+    "status": "active"
+    }
+     ,   {
+    "name": "Tom",
+    "budget_name": "Software subscription",
+    "owner_id": "5",
+    "spend": {
+    "value": "560",
+    "currency": "SGD"  },
+    "available_to_spend": {
+    "value": 600,
+    "currency": "SGD"
+    },
+    "card_type": "subscription",
+    "limit": "100",
+    "status": "active"
+    },
+    {
+    "name": "Rakish",
+    "budget_name": "PHP subscription",
+    "owner_id": "6",
+    "spend": {
+    "value": 50,
+    "currency": "SGD"
+    },
+    "available_to_spend": {
+    "value": 250,
+    "currency": "SGD"
+    },
+    "card_type": "subscription",
+    "limit": "10",
+    "status": "active"
+    },
+        {
+    "name": "Jammer",
+    "budget_name": "Java subscription",
+    "owner_id": "7",
+    "spend": {
+    "value": "368",
+    "currency": "SGD"  },
+    "available_to_spend": {
+    "value": 900,
+    "currency": "SGD"
+    },
+    "card_type": "burner",
+    "expiry": "9 feb",
+    "limit": "10",
+    "status": "active"
+    },
+    {
+    "name": "Nick",
+    "budget_name": "Linux subscription",
+    "owner_id": "8",
+    "spend": {
+    "value": 340,
+    "currency": "SGD"
+    },
+    "available_to_spend": {
+    "value": 950,
+    "currency": "SGD"
+    },
+    "card_type": "subscription",
+    "limit": "90",
+    "status": "active"
+    }
+    ]
